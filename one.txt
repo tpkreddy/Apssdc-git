@@ -2,4 +2,4 @@ Welcome to Source code management and version control using git, GitHub and BitB
 
 
 Corona is a dangerous virus and there is no cure for this virus as of now. so, everyone stay safe in quarantine. 
-“Someone is sitting in the shade today because someone planted a tree a long time ago."
+“Someone is sitting in the shade today because someone planted a tree a long time ago.".
